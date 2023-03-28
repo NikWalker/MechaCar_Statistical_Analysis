@@ -84,3 +84,9 @@ Data Sources:
 
 
 * The T-test results for suspension coils for manufacturer lot 3 shows that the mean is not equal to the true population mean of 1500 psi. The p-value was 0.04168 which is below the common significance level of 0.05. The null hypothesis is rejected.
+
+
+
+## Study Design: MechaCar vs Competition
+
+Additional statistical studies could be performed to compare performance between MechaCar and their competitors. The metrics that will be looked at in this comparison are horse power and safety ratings. The null hypothesis for these evaluations would be that the MechaCar performance for the previously stated metrics is equal to the performance of each competitor. This will be completed by comparison of the metric means for each auto manufacturer. An Anova test will compare the means. Horse power and safety ratings must be collected for MechaCar as well as its competitors in order to further study these performance metrics. 
